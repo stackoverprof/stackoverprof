@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+    <img src="/errbint.gif" alt="">
+</div>
 
 <!--
 **stackoverprof/stackoverprof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
