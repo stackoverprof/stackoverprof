@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="/errbint.gif" alt="">
+    ![animated errbint](/errbint.gif)
 </div>
 
 <!--
