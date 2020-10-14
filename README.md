@@ -21,15 +21,15 @@
 [![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/btn2.svg)](https://bit.ly/er-figma) 
 [![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/btn3.svg)](https://drive.google.com/)
 
-===
+======
 
 <div align="center">
     <a href="https://instagram.com/errbint">
         <img src="https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/ig.svg" alt="">
-    </a>
+    </a>  
     <a href="https://line.me/r.bintang11">
         <img src="https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/line.svg" alt="">
-    </a>
+    </a>  
     <a href="https://www.linkedin.com/in/r-bintang-bagus-putra-angkasa-41a6b1188">
         <img src="https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/linkedin.svg" alt="">
     </a>
