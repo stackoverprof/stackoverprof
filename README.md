@@ -25,8 +25,10 @@
 
 <div align="center">
     
+
     [![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/instagram.svg)](https://instagram.com/errbint)
     [![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/line.svg)](https://line.me/r.bintang11) 
     [![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/linkedin.svg)](https://www.linkedin.com/in/r-bintang-bagus-putra-angkasa-41a6b1188/)
+    
     
 </div>
