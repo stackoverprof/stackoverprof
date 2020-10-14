@@ -18,5 +18,15 @@
 ![](https://img.shields.io/badge/et%20cetera...%20-%23fafafa.svg)
 
 [![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/btn1.svg)](http://errbint.net/)
-[![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/btn2.svg)](http://bit.ly/er-figma) 
-[![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/btn3.svg)](http://google.com.au/)
+[![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/btn2.svg)](https://bit.ly/er-figma) 
+[![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/btn3.svg)](https://drive.google.com/)
+
+===
+
+<div align="center">
+    
+    [![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/instagram.svg)](https://instagram.com/errbint)
+    [![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/line.svg)](https://line.me/r.bintang11) 
+    [![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/linkedin.svg)](https://www.linkedin.com/in/r-bintang-bagus-putra-angkasa-41a6b1188/)
+    
+</div>
