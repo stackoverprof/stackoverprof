@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/errbint.gif" alt="" style="width: 500px;">
+    <img src="https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/errbint500.gif" alt="" >
 </div>
 
 ---
