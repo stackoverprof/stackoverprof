@@ -1,4 +1,3 @@
-<div align="center">
     ![animated errbint](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/errbint.gif)
 
     ![](https://img.shields.io/badge/JAVASCRIPT%20-%23323330.svg?&style=flat&logo=javascript&logoColor=F0DB4F) 
@@ -14,8 +13,6 @@
     ![](https://img.shields.io/badge/MONGODB%20-%235Ca75A.svg?&style=flat&logo=mongodb&logoColor=white) 
     ![](https://img.shields.io/badge/MYSQL%20-%2300758F.svg?&style=flat&logo=mysql&logoColor=white) 
     ![](https://img.shields.io/badge/et%20cetera...%20-%23fafafa.svg)
-
-</div>
 
 <!--
 **stackoverprof/stackoverprof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
