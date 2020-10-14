@@ -1,5 +1,5 @@
 <div align="center">
-    ![animated errbint](/errbint.gif)
+    ![animated errbint](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/errbint.gif)
 </div>
 
 <!--
