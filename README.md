@@ -25,7 +25,7 @@
 
 <div align="center">
     <a href="https://instagram.com/errbint">
-        <img src="https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/instagram.svg" alt="">
+        <img src="https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/ig.svg" alt="">
     </a>
     <a href="https://line.me/r.bintang11">
         <img src="https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/line.svg" alt="">
