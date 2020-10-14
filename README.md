@@ -17,12 +17,6 @@
 ![](https://img.shields.io/badge/MYSQL%20-%2300758F.svg?&style=flat&logo=mysql&logoColor=white) 
 ![](https://img.shields.io/badge/et%20cetera...%20-%23fafafa.svg)
 
-<a target="_blank" href="http://errbint.net">
-    <img src="https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/btn1.svg" alt="">
-</a>
-<a target="_blank" href="http://bit.ly/er-figma">
-    <img src="https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/btn2.svg" alt="">
-</a>
-<a target="_blank" href="http://drive.google.com/">
-    <img src="https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/btn3.svg" alt="">
-</a>
+[![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/btn1.svg)](http://errbint.net/)
+[![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/btn2.svg)](http://bit.ly/er-figma) 
+[![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/btn3.svg)](http://google.com.au/)
