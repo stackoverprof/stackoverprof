@@ -17,6 +17,6 @@
 ![](https://img.shields.io/badge/MYSQL%20-%2300758F.svg?&style=flat&logo=mysql&logoColor=white) 
 ![](https://img.shields.io/badge/et%20cetera...%20-%23fafafa.svg)
 
-[![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/btn1.svg)](http://errbint.net/) 
-[![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/btn2.svg)](http://bit.ly/er-figma) 
-[![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/btn3.svg)](http://google.com.au/)
+[![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/btn1.svg)](http://errbint.net/){:target="_blank"}
+[![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/btn2.svg)](http://bit.ly/er-figma){:target="_blank"}
+[![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/btn3.svg)](http://google.com.au/){:target="_blank"}
