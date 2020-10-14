@@ -1,5 +1,5 @@
 ![animated errbint](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/errbint.gif)
-
+======
 ![](https://img.shields.io/badge/JAVASCRIPT%20-%23323330.svg?&style=flat&logo=javascript&logoColor=F0DB4F) 
 ![](https://img.shields.io/badge/PHP%20-%23474A8A.svg?&style=flat&logo=php&logoColor=white) 
 ![](https://img.shields.io/badge/REACT%20-%232DB2D4.svg?&style=flat&logo=react&logoColor=white) 
