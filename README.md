@@ -19,7 +19,7 @@
 
 [![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/btn1.svg)](http://errbint.net/)
 [![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/btn2.svg)](https://bit.ly/er-figma) 
-[![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/btn3.svg)](https://drive.google.com/)
+[![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/btn3.svg)](https://drive.google.com/drive/folders/1NrqRHTAxg_E43Q3-bFoplH-FD24TKeV4?usp=sharing)
 
 ------
 
@@ -27,7 +27,7 @@
     <a href="https://instagram.com/errbint">
         <img src="https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/ig.svg" alt="">
     </a>  
-    <a href="https://line.me/r.bintang11">
+    <a href="https://line.me/ti/p/FwXuuM_qrV">
         <img src="https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/line.svg" alt="">
     </a>  
     <a href="https://www.linkedin.com/in/r-bintang-bagus-putra-angkasa-41a6b1188">
