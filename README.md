@@ -20,6 +20,11 @@ Tech Stacks
 ![](https://img.shields.io/badge/MYSQL%20-%2300758F.svg?&style=flat&logo=mysql&logoColor=white) 
 ![](https://img.shields.io/badge/et%20cetera...%20-%23fafafa.svg)
 
+**Hi,**
+I'm  **R.Bintang Bagus Putra Angkasa.** Just a regular young man studying CS in Gadjah Mada and I'm passionate about web development and design.
+
+
+
 Attachments
 
 [![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/btn1.svg)](http://errbint.net/)
