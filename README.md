@@ -21,7 +21,7 @@ Tech Stacks
 ![](https://img.shields.io/badge/et%20cetera...%20-%23fafafa.svg)
 
 **Hi,**
-I'm  **R.Bintang Bagus Putra Angkasa.** Just a regular young man studying CS in Gadjah Mada and I'm passionate about web development and design.
+I'm  **R.Bintang Bagus Putra Angkasa.** Just a regular young man studying CS in Gadjah Mada and I'm skilled in and passionate about web development and design.
 
 
 
