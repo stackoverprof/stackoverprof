@@ -35,7 +35,7 @@ Attachments
 
 <div align="center">
     <a href="https://instagram.com/errbint">
-        <img src="https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/ig.svg" alt="">
+        <img src="https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/instagram.svg" alt="">
     </a>  
     <a href="https://wa.me/628988355006">
         <img src="https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/whatsapp.svg" alt="">
