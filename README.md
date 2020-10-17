@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/stackoverprof/stackoverprof/blob/master/errbint500.gif" alt="" >
+    <img src="https://sandboxes-js.now.sh/img/readme/errbint500.gif" alt="" >
 </div>
 
 ---
@@ -27,23 +27,23 @@ I'm  **R.Bintang Bagus Putra Angkasa.** Just a regular young man studying CS in 
 
 Attachments
 
-[![Foo](https://github.com/stackoverprof/stackoverprof/blob/master/btn1.svg)](http://errbint.net/)
-[![Foo](https://github.com/stackoverprof/stackoverprof/blob/master/btn2.svg)](https://bit.ly/er-figma) 
-[![Foo](https://github.com/stackoverprof/stackoverprof/blob/master/btn3.svg)](https://drive.google.com/drive/folders/1NrqRHTAxg_E43Q3-bFoplH-FD24TKeV4?usp=sharing)
+[![Foo](https://sandboxes-js.now.sh/img/readme/btn1.svg)](http://errbint.net/)
+[![Foo](https://sandboxes-js.now.sh/img/readme/btn2.svg)](https://bit.ly/er-figma) 
+[![Foo](https://sandboxes-js.now.sh/img/readme/btn3.svg)](https://drive.google.com/drive/folders/1NrqRHTAxg_E43Q3-bFoplH-FD24TKeV4?usp=sharing)
 
 ------
 
 <div align="center">
     <a href="https://instagram.com/errbint">
-        <img src="https://github.com/stackoverprof/stackoverprof/blob/master/instagram.svg" alt="">
+        <img src="https://sandboxes-js.now.sh/img/readme/instagram.svg" alt="">
     </a>  
     <a href="https://wa.me/628988355006">
-        <img src="https://github.com/stackoverprof/stackoverprof/blob/master/whatsapp.svg" alt="">
+        <img src="https://sandboxes-js.now.sh/img/readme/whatsapp.svg" alt="">
     </a>  
     <a href="https://line.me/ti/p/FwXuuM_qrV">
-        <img src="https://github.com/stackoverprof/stackoverprof/blob/master/line.svg" alt="">
+        <img src="https://sandboxes-js.now.sh/img/readme/line.svg" alt="">
     </a>  
     <a href="https://www.linkedin.com/in/r-bintang-bagus-putra-angkasa-41a6b1188">
-        <img src="https://github.com/stackoverprof/stackoverprof/blob/master/linkedin.svg" alt="">
+        <img src="https://sandboxes-js.now.sh/img/readme/linkedin.svg" alt="">
     </a>
 </div>
