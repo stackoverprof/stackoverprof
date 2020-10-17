@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/errbint500.gif" alt="" >
+    <img src="./errbint500.gif" alt="" >
 </div>
 
 ---
@@ -27,23 +27,23 @@ I'm  **R.Bintang Bagus Putra Angkasa.** Just a regular young man studying CS in 
 
 Attachments
 
-[![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/btn1.svg)](http://errbint.net/)
-[![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/btn2.svg)](https://bit.ly/er-figma) 
-[![Foo](https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/btn3.svg)](https://drive.google.com/drive/folders/1NrqRHTAxg_E43Q3-bFoplH-FD24TKeV4?usp=sharing)
+[![Foo](./btn1.svg)](http://errbint.net/)
+[![Foo](./btn2.svg)](https://bit.ly/er-figma) 
+[![Foo](./btn3.svg)](https://drive.google.com/drive/folders/1NrqRHTAxg_E43Q3-bFoplH-FD24TKeV4?usp=sharing)
 
 ------
 
 <div align="center">
     <a href="https://instagram.com/errbint">
-        <img src="https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/instagram.svg" alt="">
+        <img src="./instagram.svg" alt="">
     </a>  
     <a href="https://wa.me/628988355006">
-        <img src="https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/whatsapp.svg" alt="">
+        <img src="./whatsapp.svg" alt="">
     </a>  
     <a href="https://line.me/ti/p/FwXuuM_qrV">
-        <img src="https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/line.svg" alt="">
+        <img src="./line.svg" alt="">
     </a>  
     <a href="https://www.linkedin.com/in/r-bintang-bagus-putra-angkasa-41a6b1188">
-        <img src="https://raw.githubusercontent.com/stackoverprof/stackoverprof/main/linkedin.svg" alt="">
+        <img src="./linkedin.svg" alt="">
     </a>
 </div>
