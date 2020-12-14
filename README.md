@@ -21,7 +21,7 @@ Tech Stacks
 ![](https://img.shields.io/badge/et%20cetera...%20-%23fafafa.svg)
 
 **Hi,**
-I'm  **R.Bintang Bagus Putra Angkasa.** A Creative Developer studying CS in Gadjah Mada and I'm skilled in 'n passionate about web development and design.
+I'm  **R.Bintang Bagus Putra Angkasa.** A Creative Developer studying CS in Gadjah Mada. I'm skilled in 'n passionate about web development and design but also making games for fun.
 
 
 
