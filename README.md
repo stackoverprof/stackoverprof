@@ -28,8 +28,8 @@ I'm  **R.Bintang Bagus Putra Angkasa.** A Creative Developer studying CS in Gadj
 Attachments
 
 [![Foo](https://sandboxes-js.now.sh/img/readme/btn1.svg)](http://errbint.net/)
-[![Foo](https://sandboxes-js.now.sh/img/readme/btn2.svg)](https://bit.ly/er-figma) 
-[![Foo](https://sandboxes-js.now.sh/img/readme/btn3.svg)](https://drive.google.com/drive/folders/1NrqRHTAxg_E43Q3-bFoplH-FD24TKeV4?usp=sharing)
+[![Foo](https://sandboxes-js.now.sh/img/readme/btn2.svg)](https://errbint.net/figma) 
+[![Foo](https://sandboxes-js.now.sh/img/readme/btn3.svg)](https://errbint.net/cv)
 
 ------
 
