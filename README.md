@@ -14,7 +14,7 @@ Tech Stacks
 ![](https://img.shields.io/badge/FIREBASE%20-%23FFA611.svg?&style=flat&logo=firebase&logoColor=white) 
 ![](https://img.shields.io/badge/VUE%20-%234FC08D.svg?&style=flat&logo=vue.js&logoColor=white) 
 ![](https://img.shields.io/badge/THREE%20-%23000000.svg?&style=flat&logo=three.js&logoColor=white) 
-![](https://img.shields.io/badge/WEBGL%20-%23961A1F.svg?&style=flat&logo=webgl&logoColor=white)
+![](https://img.shields.io/badge/WEBGL%20-%234D0A0C.svg?&style=flat&logo=webgl&logoColor=white)
 ![](https://img.shields.io/badge/FIGMA%20-%23F24E1E.svg?&style=flat&logo=figma&logoColor=white) 
 ![](https://img.shields.io/badge/FRAMER%20-%23325ACE.svg?&style=flat&logo=framer&logoColor=white) 
 ![](https://img.shields.io/badge/NODE%20-%233C873A.svg?&style=flat&logo=node.js&logoColor=white) 
