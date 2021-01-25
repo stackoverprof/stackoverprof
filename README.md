@@ -4,7 +4,7 @@
 
 ---
 
-Tech Stacks
+**Tech Stacks**
 
 ![](https://img.shields.io/badge/JAVASCRIPT%20-%23323330.svg?&style=flat&logo=javascript&logoColor=F0DB4F) 
 ![](https://img.shields.io/badge/PHP%20-%23474A8A.svg?&style=flat&logo=php&logoColor=white) 
