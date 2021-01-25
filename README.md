@@ -25,7 +25,7 @@
 ![](https://img.shields.io/badge/et%20cetera...%20-%23fafafa.svg)
 
 **Hi,**
-I'm  **R.Bintang Bagus Putra Angkasa.** A Creative Developer studying Computer Sci in UGM. I'm skilled in 'n passionate about web development and design but also making games for fun.
+I'm  **R.Bintang Bagus Putra Angkasa.** A Front-End Creative Developer studying Computer Sci in UGM. I'm skilled in 'n passionate about web development and design but also making games for fun.
 
 Actively looking up for any chance to handle **projects** and **collaborate** with you. Contact me down below ❤️
 
