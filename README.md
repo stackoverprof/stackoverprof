@@ -47,7 +47,7 @@ Actively looking up for any chance to handle **projects** and **collaborate** wi
     <a href="https://line.me/ti/p/FwXuuM_qrV">
         <img src="https://sandboxes-js.now.sh/img/readme/line.svg" alt="">
     </a>  
-    <a href="https://www.linkedin.com/in/r-bintang-bagus-putra-angkasa-41a6b1188">
+    <a href="https://www.linkedin.com/in/raden-bintang">
         <img src="https://sandboxes-js.now.sh/img/readme/linkedin.svg" alt="">
     </a>
 </div>
