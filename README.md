@@ -31,7 +31,8 @@
 I'm  **R.Bintang Bagus Putra Angkasa.** A Front-End Creative Developer studying Computer Sci in UGM. I'm skilled in 'n passionate about web development and design but also mobile app and making games for fun.
 
 Currently a fulltime remote developer at Hybrid Solutions EHF.
-Thinking about **projects** or **collaboration** with me? Contact me down below ❤️
+<br>
+Thinking about **project** or **collaboration** with me? Contact me down below ❤️
 
 **Attachments**
 
