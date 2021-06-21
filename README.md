@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://sandboxes-js.now.sh/img/readme/errbint500.gif" alt="" >
+    <img src="assets/errbint500.gif" alt="" >
 </div>
 
 ---
@@ -36,23 +36,23 @@ Thinking about **project** or **collaboration** with me? Contact me down below â
 
 **Attachments**
 
-[![Foo](https://sandboxes-js.now.sh/img/readme/btn1.svg)](http://errbint.net/)
-[![Foo](https://sandboxes-js.now.sh/img/readme/btn2.svg)](https://errbint.net/figma) 
-[![Foo](https://sandboxes-js.now.sh/img/readme/btn3.svg)](https://errbint.net/cv)
+[![Foo](assets/btn1.svg)](http://errbint.net/)
+[![Foo](assets/btn2.svg)](https://errbint.net/figma) 
+[![Foo](assets/btn3.svg)](https://errbint.net/cv)
 
 ------
 
 <div align="center">
     <a href="https://instagram.com/errbint">
-        <img src="https://sandboxes-js.now.sh/img/readme/instagram.svg" alt="">
+        <img src="assets/instagram.svg" alt="">
     </a>  
     <a href="https://wa.me/628988355006">
-        <img src="https://sandboxes-js.now.sh/img/readme/whatsapp.svg" alt="">
+        <img src="assets/whatsapp.svg" alt="">
     </a>  
-    <a href="https://line.me/ti/p/FwXuuM_qrV">
-        <img src="https://sandboxes-js.now.sh/img/readme/line.svg" alt="">
+    <a href="mailto:erbin@hybrid.is>
+        <img src="assets/email.svg" alt="">
     </a>  
     <a href="https://www.linkedin.com/in/raden-bintang">
-        <img src="https://sandboxes-js.now.sh/img/readme/linkedin.svg" alt="">
+        <img src="assets/linkedin.svg" alt="">
     </a>
 </div>
