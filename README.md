@@ -49,7 +49,7 @@ Thinking about **project** or **collaboration** with me? Contact me down below â
     <a href="https://wa.me/628988355006">
         <img src="assets/whatsapp.svg" alt="">
     </a>  
-    <a href="mailto:erbin@hybrid.is>
+    <a href="mailto:erbin@hybrid.is">
         <img src="assets/email.svg" alt="">
     </a>  
     <a href="https://www.linkedin.com/in/raden-bintang">
