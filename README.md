@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://sandboxes-js.vercel.app/img/readme/errbint500.gif" alt="" >
+    <img src="assets/errbint500.gif" alt="" >
 </div>
 
 ---
