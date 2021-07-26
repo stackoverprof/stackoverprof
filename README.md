@@ -49,6 +49,9 @@ Thinking about **project** or **collaboration** with me? Contact me down below â
 ------
 
 <div align="center">
+    <a href="https://www.linkedin.com/in/raden-bintang">
+        <img src="assets/linkedin.svg" alt="">
+    </a>
     <a href="https://instagram.com/errbint">
         <img src="assets/instagram.svg" alt="">
     </a>  
@@ -58,7 +61,4 @@ Thinking about **project** or **collaboration** with me? Contact me down below â
     <a href="mailto:erbin@hybrid.is">
         <img src="assets/email.svg" alt="">
     </a>  
-    <a href="https://www.linkedin.com/in/raden-bintang">
-        <img src="assets/linkedin.svg" alt="">
-    </a>
 </div>
