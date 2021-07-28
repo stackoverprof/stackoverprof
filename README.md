@@ -40,6 +40,11 @@ Thinking about **project** or **collaboration** with me? Contact me down below â
 
 <br>
 
+[![Foo](https://komarev.com/ghpvc/?username=stackoverprof&color=lightgrey)]()
+[![Foo](https://img.shields.io/github/followers/stackoverprof?label=follow%20me&style=social)](https://github.com/stackoverprof)
+
+<br>
+
 **Attachments**
 
 [![Foo](assets/btn1.svg)](http://errbint.net/)
@@ -61,4 +66,6 @@ Thinking about **project** or **collaboration** with me? Contact me down below â
     <a href="mailto:erbin@hybrid.is">
         <img src="assets/email.svg" alt="">
     </a>  
+    <br>
+<br>
 </div>
