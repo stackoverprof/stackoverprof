@@ -36,7 +36,7 @@ Thinking about **project** or **collaboration** with me? Contact me down below �
 
 <br>
 
-⚠️ **Hey!** Hybrid is hiring React Dev, React-Native Dev, AR/VR Specialist, and UI Designer. **Let me know if you're interested!**
+⚠️ **Hey!** Hybrid is looking up to React Dev, React-Native Dev, AR/VR Specialist, and UI Designer. **Let me know if you're interested!**
 
 <br>
 
