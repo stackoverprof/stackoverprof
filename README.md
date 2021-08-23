@@ -24,7 +24,7 @@
 [![](https://img.shields.io/badge/LARAVEL%20-%23FB503B.svg?&style=flat&logo=laravel&logoColor=white)](https://laravel.com) 
 [![](https://img.shields.io/badge/MONGODB%20-%235Ca75A.svg?&style=flat&logo=mongodb&logoColor=white)](https://mongodb.com) 
 [![](https://img.shields.io/badge/MYSQL%20-%2300758F.svg?&style=flat&logo=mysql&logoColor=white)](https://mysql.com) 
-[![](https://img.shields.io/badge/et%20cetera...%20-%23fafafa.svg)](https://roadmap.sh)
+[![](https://img.shields.io/badge/et%20cetera...%20-%23fafafa.svg?textColor=black)](https://roadmap.sh)
 
 **Hi,**
 I'm  **R.Bintang Bagus Putra Angkasa.** A Front-End Creative Developer studying Computer Sci in UGM. I'm skilled in 'n passionate about web development and design but also mobile app and making games for fun.
