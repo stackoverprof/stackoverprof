@@ -35,10 +35,6 @@ Thinking about **project** or **collaboration** with me? Contact me down below �
 
 <br>
 
-⚠️ **Hey!** Hybrid is looking for PHP/Wordpress Dev, React-Native Dev, and AR/VR Specialist. **Let me know if you're interested!**
-
-<br>
-
 [![Foo](https://komarev.com/ghpvc/?username=stackoverprof&color=lightgrey)]()
 [![Foo](https://img.shields.io/github/followers/stackoverprof?label=follow%20me&style=social)](https://github.com/stackoverprof)
 
