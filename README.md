@@ -8,7 +8,7 @@
 
 [![](https://img.shields.io/badge/JAVASCRIPT%20-%23323330.svg?&style=flat&logo=javascript&logoColor=F0DB4F)](https://javascript.com) 
 [![](https://img.shields.io/badge/TYPESCRIPT%20-%233178C6.svg?&style=flat&logo=typescript&logoColor=white)](https://typescriptlang.org) 
-[![](https://img.shields.io/badge/SOLIDITY%20-%23363636.svg?&style=flat&logo=solidity&logoColor=white)](https://typescriptlang.org) 
+[![](https://img.shields.io/badge/SOLIDITY%20-%23363636.svg?&style=flat&logo=solidity&logoColor=white)](https://soliditylang.org) 
 [![](https://img.shields.io/badge/REACT%20-%2356BDDA.svg?&style=flat&logo=react&logoColor=white)](https://reactjs.org) 
 [![](https://img.shields.io/badge/NEXT%20-%23000000.svg?&style=flat&logo=next.js&logoColor=white)](https://nextjs.org)
 [![](https://img.shields.io/badge/REACTNATIVE%20-%23202020.svg?&style=flat&logo=react&logoColor=9fdcea)](https://reactnative.dev) 
@@ -23,7 +23,7 @@
 [![](https://img.shields.io/badge/ex_EXPRESS%20-%235f5f5f.svg)](https://expressjs.com) 
 [![](https://img.shields.io/badge/MONGODB%20-%235Ca75A.svg?&style=flat&logo=mongodb&logoColor=white)](https://mongodb.com) 
 [![](https://img.shields.io/badge/MYSQL%20-%2300758F.svg?&style=flat&logo=mysql&logoColor=white)](https://mysql.com) 
-[![](https://img.shields.io/badge/et%20cetera...%20-%23fafafa.svg?textColor=black)](https://roadmap.sh)
+[![](https://img.shields.io/badge/et%20cetera...%20-%23fafafa.svg?textColor=black)](https://github.com/stackoverprof/front-end-101)
 
 **Hi,**
 I'm  **R.Bintang Bagus Putra Angkasa.** A Front-End Creative Developer studying Computer Sci in UGM. I'm skilled in 'n passionate about web development and design but also mobile app and making games for fun.
