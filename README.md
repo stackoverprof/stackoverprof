@@ -57,7 +57,7 @@ Thinking about **project** or **collaboration** with me? Contact me down below â
     <a href="https://wa.me/628988355006">
         <img src="assets/whatsapp.svg" alt="">
     </a>  
-    <a href="mailto:erbin@hybrid.is">
+    <a href="mailto:r.bintangbagus@gmail.com">
         <img src="assets/email.svg" alt="">
     </a>  
     <br>
