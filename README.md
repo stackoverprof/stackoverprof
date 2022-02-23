@@ -28,7 +28,7 @@
 **Hi,**
 I'm  **R.Bintang Bagus Putra Angkasa.** A Front-End Creative Developer studying Computer Sci in UGM. I'm skilled in 'n passionate about web development and design but also mobile app and making games for fun.
 
-Currently active as a front end developer and also a blockchain geek.
+Currently active as a Front-end developer and also a blockchain geek.
 <br>
 Thinking about **project** or **collaboration** with me? Contact me down below ❤️
 
