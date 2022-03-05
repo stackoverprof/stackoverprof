@@ -12,7 +12,7 @@
 [![](https://img.shields.io/badge/REACT%20-%2356BDDA.svg?&style=flat&logo=react&logoColor=white)](https://reactjs.org) 
 [![](https://img.shields.io/badge/NEXT%20-%23000000.svg?&style=flat&logo=next.js&logoColor=white)](https://nextjs.org)
 [![](https://img.shields.io/badge/REACTNATIVE%20-%23202020.svg?&style=flat&logo=react&logoColor=9fdcea)](https://reactnative.dev) 
-[![](https://img.shields.io/badge/EXPO%20-%238f4fff.svg?&style=flat&logo=expo&logoColor=white)](https://expo.io) 
+[![](https://img.shields.io/badge/EXPO%20-%238f4fff.svg?&style=flat&logo=expo&logoColor=white)](https://expo.dev) 
 [![](https://img.shields.io/badge/FIREBASE%20-%23FFA611.svg?&style=flat&logo=firebase&logoColor=white)](https://firebase.google.com) 
 [![](https://img.shields.io/badge/TAILWIND%20-%2338B2AC.svg?&style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com) 
 [![](https://img.shields.io/badge/THREE%20-%23000000.svg?&style=flat&logo=three.js&logoColor=white)](https://threejs.org)
