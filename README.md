@@ -11,8 +11,9 @@
 [![](https://img.shields.io/badge/SOLIDITY%20-%23363636.svg?&style=flat&logo=solidity&logoColor=white)](https://soliditylang.org) 
 [![](https://img.shields.io/badge/REACT%20-%2356BDDA.svg?&style=flat&logo=react&logoColor=white)](https://reactjs.org) 
 [![](https://img.shields.io/badge/NEXT%20-%23000000.svg?&style=flat&logo=next.js&logoColor=white)](https://nextjs.org)
-[![](https://img.shields.io/badge/REACTNATIVE%20-%23202020.svg?&style=flat&logo=react&logoColor=9fdcea)](https://reactnative.dev) 
+[![](https://img.shields.io/badge/REACTNATIVE%20-%23202020.svg?&style=flat&logo=react&logoColor=9fdcea)](https://reactnative.dev)
 [![](https://img.shields.io/badge/EXPO%20-%238f4fff.svg?&style=flat&logo=expo&logoColor=white)](https://expo.dev) 
+[![](https://img.shields.io/badge/VITE%20-%23646CFF.svg?&style=flat&logo=vite&logoColor=white)](https://vitejs.dev) 
 [![](https://img.shields.io/badge/FIREBASE%20-%23FFA611.svg?&style=flat&logo=firebase&logoColor=white)](https://firebase.google.com) 
 [![](https://img.shields.io/badge/TAILWIND%20-%2338B2AC.svg?&style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com) 
 [![](https://img.shields.io/badge/THREE%20-%23000000.svg?&style=flat&logo=three.js&logoColor=white)](https://threejs.org)
@@ -21,8 +22,6 @@
 [![](https://img.shields.io/badge/FIGMA%20-%23F24E1E.svg?&style=flat&logo=figma&logoColor=white)](https://figma.com) 
 [![](https://img.shields.io/badge/NODE%20-%233C873A.svg?&style=flat&logo=node.js&logoColor=white)](https://nodejs.org) 
 [![](https://img.shields.io/badge/ex_EXPRESS%20-%235f5f5f.svg)](https://expressjs.com) 
-[![](https://img.shields.io/badge/MONGODB%20-%235Ca75A.svg?&style=flat&logo=mongodb&logoColor=white)](https://mongodb.com) 
-[![](https://img.shields.io/badge/MYSQL%20-%2300758F.svg?&style=flat&logo=mysql&logoColor=white)](https://mysql.com) 
 [![](https://img.shields.io/badge/et%20cetera...%20-%23fafafa.svg?textColor=black)](https://github.com/stackoverprof/front-end-101)
 
 **Hi,**
