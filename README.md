@@ -4,7 +4,7 @@
 
 ---
 
-**Tech Stacks**
+**Falling in love with**
 
 [![](https://img.shields.io/badge/JAVASCRIPT%20-%23323330.svg?&style=flat&logo=javascript&logoColor=F0DB4F)](https://javascript.com) 
 [![](https://img.shields.io/badge/TYPESCRIPT%20-%233178C6.svg?&style=flat&logo=typescript&logoColor=white)](https://typescriptlang.org) 
