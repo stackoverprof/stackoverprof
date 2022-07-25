@@ -22,7 +22,7 @@
 [![](https://img.shields.io/badge/VUE%20-%234FC08D.svg?&style=flat&logo=vue.js&logoColor=white)](https://vuejs.org) 
 [![](https://img.shields.io/badge/NODE%20-%233C873A.svg?&style=flat&logo=node.js&logoColor=white)](https://nodejs.org) 
 [![](https://img.shields.io/badge/ex_EXPRESS%20-%235f5f5f.svg)](https://expressjs.com) 
-[![](https://img.shields.io/badge/et%20cetera...%20-%23fafafa.svg?textColor=black)](https://github.com/stackoverprof/front-end-101)
+[![](https://img.shields.io/badge/many%20more...%20-%23fafafa.svg?textColor=black)](https://github.com/stackoverprof/front-end-101)
 
 **Hi,**
 I'm  **R.Bintang Bagus Putra Angkasa.** A Front-end Creative Developer studying Computer Sci in UGM. I'm skilled in 'n passionate about web development and design but also mobile app and making games for fun.
