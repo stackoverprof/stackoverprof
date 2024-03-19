@@ -25,38 +25,30 @@
 **Hi,**
 I'm  **R.Bintang Bagus Putra Angkasa.** A Front-end Creative Developer studying Computer Sci in UGM. I'm skilled in 'n passionate about web development and design but also mobile app and making games for fun.
 
-Currently active as a front-end developer and also a blockchain geek.
+Currently active as a front-end developer and enjoying life.
 <br>
 Thinking about **project** or **collaboration** with me? Contact me down below ❤️
 
 <br>
 
-[![Foo](https://komarev.com/ghpvc/?username=stackoverprof&color=lightgrey)]()
-[![Foo](https://img.shields.io/github/followers/stackoverprof?label=follow%20me&style=social)](https://github.com/stackoverprof)
-
-<br>
-
-**Attachments**
-
-[![Foo](assets/btn1.svg)](http://errbint.net/)
-[![Foo](assets/btn2.svg)](https://errbint.net/figma) 
-[![Foo](assets/btn3.svg)](https://errbint.net/cv)
-
-------
-
-<div align="center">
+<div align="left">
+    <a href="mailto:r.bintangbagus@gmail.com">
+        <img src="assets/email.svg" alt="">
+    </a>  
+    <a href="https://wa.me/628988355006">
+        <img src="assets/whatsapp.svg" alt="">
+    </a>  
     <a href="https://www.linkedin.com/in/raden-bintang">
         <img src="assets/linkedin.svg" alt="">
     </a>
     <a href="https://instagram.com/errbint">
         <img src="assets/instagram.svg" alt="">
     </a>  
-    <a href="https://wa.me/628988355006">
-        <img src="assets/whatsapp.svg" alt="">
-    </a>  
-    <a href="mailto:r.bintangbagus@gmail.com">
-        <img src="assets/email.svg" alt="">
-    </a>  
     <br>
-<br>
+    <br>
 </div>
+
+<br>
+
+[![Foo](https://komarev.com/ghpvc/?username=stackoverprof&color=lightgrey)]()
+[![Foo](https://img.shields.io/github/followers/stackoverprof?label=follow%20me&style=social)](https://github.com/stackoverprof)
