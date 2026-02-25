@@ -31,24 +31,5 @@ Thinking about **project** or **collaboration** with me? Contact me down below â
 
 <br>
 
-<div align="left">
-    <a href="mailto:r.bintangbagus@gmail.com">
-        <img src="assets/email.svg" alt="">
-    </a>  
-    <a href="https://wa.me/628988355006">
-        <img src="assets/whatsapp.svg" alt="">
-    </a>  
-    <a href="https://www.linkedin.com/in/raden-bintang">
-        <img src="assets/linkedin.svg" alt="">
-    </a>
-    <a href="https://instagram.com/errbint">
-        <img src="assets/instagram.svg" alt="">
-    </a>  
-    <br>
-    <br>
-</div>
-
-<br>
-
 [![Foo](https://komarev.com/ghpvc/?username=stackoverprof&color=lightgrey)]()
 [![Foo](https://img.shields.io/github/followers/stackoverprof?label=follow%20me&style=social)](https://github.com/stackoverprof)
