@@ -36,7 +36,7 @@ I'm  **R Bintang Bagus Putra Angkasa.** I make web apps work fast, scale well, a
 Full-stack engineer with 5+ years shipping POS and commerce platforms across Europe and Southeast Asia. Mostly living in the JavaScript ecosystem. Designing systems, optimizing performance, and building tools that make engineers happier.
 
 CS @ Universitas Gadjah Mada.
-<br>
+
 Thinking about **project** or **collaboration** with me? Contact me down below 🚀
 
 <br>
