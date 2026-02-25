@@ -10,8 +10,8 @@
 [![](https://img.shields.io/badge/TYPESCRIPT%20-%233178C6.svg?&style=flat&logo=typescript&logoColor=white)](https://typescriptlang.org)
 [![](https://img.shields.io/badge/REACT%20-%2356BDDA.svg?&style=flat&logo=react&logoColor=white)](https://reactjs.org)
 [![](https://img.shields.io/badge/NEXT%20-%23000000.svg?&style=flat&logo=next.js&logoColor=white)](https://nextjs.org)
-[![](https://img.shields.io/badge/REMIX%20-%23000000.svg?&style=flat&logo=remix&logoColor=white)](https://remix.run)
 [![](https://img.shields.io/badge/TANSTACK%20-%23FF4154.svg?&style=flat&logo=reactquery&logoColor=white)](https://tanstack.com)
+[![](https://img.shields.io/badge/REMIX%20-%23000000.svg?&style=flat&logo=remix&logoColor=white)](https://remix.run)
 [![](https://img.shields.io/badge/REACT_NATIVE%20-%23444444.svg?&style=flat&logo=react&logoColor=9fdcea)](https://reactnative.dev)
 [![](https://img.shields.io/badge/EXPO%20-%238f4fff.svg?&style=flat&logo=expo&logoColor=white)](https://expo.dev)
 [![](https://img.shields.io/badge/NODE%20-%233C873A.svg?&style=flat&logo=node.js&logoColor=white)](https://nodejs.org)
@@ -31,11 +31,13 @@
 [![](https://img.shields.io/badge/CLAUDE_CODE%20-%23D97757.svg?&style=flat&logo=anthropic&logoColor=white)](https://claude.ai)
 
 **Hi,**
-I'm  **R Bintang Bagus Putra Angkasa.** A Front-end Creative Developer at Upsell. Graduated Computer Sci in UGM. I'm skilled in 'n passionate about web development and design but also mobile app and making games for fun.
+I'm  **R Bintang Bagus Putra Angkasa.** I make web apps work fast, scale well, and (hopefully) not wake people up at 3AM.
 
-Currently active as a front-end developer and enjoying life.
+Full-stack engineer with 5+ years shipping POS and commerce platforms across Europe and Southeast Asia. Mostly living in the JavaScript ecosystem. Designing systems, optimizing performance, and building tools that make engineers happier.
+
+CS @ Universitas Gadjah Mada.
 <br>
-Thinking about **project** or **collaboration** with me? Contact me down below ❤️
+Thinking about **project** or **collaboration** with me? Contact me down below 🚀
 
 <br>
 
