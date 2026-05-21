@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/errbint500.gif" alt="" >
+    <img src="assets/cat-sleeping.svg" alt="" >
 </div>
 
 ---
