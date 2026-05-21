@@ -33,7 +33,7 @@
 **Hi,**
 I'm  **R Bintang Bagus Putra Angkasa.** I make web apps work fast, scale well, and (hopefully) not wake people up at 3AM.
 
-Full-stack engineer with 5+ years shipping POS and commerce platforms across Europe and Southeast Asia. Mostly living in the JavaScript ecosystem. Designing systems, optimizing performance, and building tools that make engineers happier.
+Engineering Lead with 5+ years shipping POS and commerce platforms across Europe and Southeast Asia, currently behind the systems powering millions of orders across hundreds of store locations. Mostly living in the JavaScript ecosystem. Designing systems, optimizing performance, and building tools that make engineers happier.
 
 CS @ Universitas Gadjah Mada.
 
