@@ -37,8 +37,6 @@ Engineering Lead with 5+ years shipping POS and commerce platforms across Europe
 
 CS @ Universitas Gadjah Mada.
 
-Thinking about **project** or **collaboration** with me? Contact me down below 🚀
-
 <br>
 
 [![Foo](https://komarev.com/ghpvc/?username=stackoverprof&color=lightgrey)]()
