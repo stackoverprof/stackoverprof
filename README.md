@@ -16,7 +16,7 @@ Co-founding software engineer at **Upsell**, the all-in-one operations and sales
 [![](https://img.shields.io/badge/SWIFT-%23F05138.svg?&style=flat&logo=swift&logoColor=white)](https://swift.org)
 [![](https://img.shields.io/badge/CLAUDE_CODE-%23D97757.svg?&style=flat&logo=anthropic&logoColor=white)](https://claude.com/claude-code)
 
-Lately my keyboard is mostly for prompts and code review. The agents do the typing; I do the worrying! Not a born vibecoder, though. Coded everything by hand from year 5 B.C. _(Before Claude)_.
+Lately my keyboard is mostly for prompts and code review. The agents do the typing; I do the worrying! Not a born vibecoder, though. Coded everything by hand from year 5 B.C. _(before claude)_.
 
 **Building now**
 - [Upsell](https://upsell.is): The dashboard, websites, apps, widget and plenty more cool stuff that help people get the food and things they love.
