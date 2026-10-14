@@ -39,5 +39,5 @@ CS @ Universitas Gadjah Mada.
 
 <br>
 
-[![Foo](https://komarev.com/ghpvc/?username=stackoverprof&color=lightgrey)]()
-[![Foo](https://img.shields.io/github/followers/stackoverprof?label=follow%20me&style=social)](https://github.com/stackoverprof)
+[![](https://komarev.com/ghpvc/?username=stackoverprof&color=lightgrey)]()
+[![](https://img.shields.io/github/followers/stackoverprof?label=follow%20me&style=social)](https://github.com/stackoverprof)
