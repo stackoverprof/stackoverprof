@@ -4,40 +4,27 @@
 
 ---
 
-**Falling in love with**
+**Hi, I'm R Bintang Bagus Putra Angkasa.**
+Co-founding software engineer at **Upsell**, the all-in-one operations and sales platform behind 100+ food brands across Europe, with 300+ locations and 3M+ orders.
 
-[![](https://img.shields.io/badge/JAVASCRIPT%20-%23323330.svg?&style=flat&logo=javascript&logoColor=F0DB4F)](https://javascript.com)
-[![](https://img.shields.io/badge/TYPESCRIPT%20-%233178C6.svg?&style=flat&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![](https://img.shields.io/badge/REACT%20-%2356BDDA.svg?&style=flat&logo=react&logoColor=white)](https://reactjs.org)
-[![](https://img.shields.io/badge/NEXT%20-%23000000.svg?&style=flat&logo=next.js&logoColor=white)](https://nextjs.org)
-[![](https://img.shields.io/badge/TANSTACK%20-%23FF4154.svg?&style=flat&logo=reactquery&logoColor=white)](https://tanstack.com)
-[![](https://img.shields.io/badge/REMIX%20-%23000000.svg?&style=flat&logo=remix&logoColor=white)](https://remix.run)
-[![](https://img.shields.io/badge/REACT_NATIVE%20-%23444444.svg?&style=flat&logo=react&logoColor=9fdcea)](https://reactnative.dev)
-[![](https://img.shields.io/badge/EXPO%20-%238f4fff.svg?&style=flat&logo=expo&logoColor=white)](https://expo.dev)
-[![](https://img.shields.io/badge/NODE%20-%233C873A.svg?&style=flat&logo=node.js&logoColor=white)](https://nodejs.org)
-[![](https://img.shields.io/badge/EXPRESS%20-%235f5f5f.svg?&style=flat&logo=express&logoColor=white)](https://expressjs.com)
-[![](https://img.shields.io/badge/HONO%20-%23E36002.svg?&style=flat&logo=hono&logoColor=white)](https://hono.dev)
-[![](https://img.shields.io/badge/DRIZZLE%20-%23C5F74F.svg?&style=flat&logo=drizzle&logoColor=black)](https://orm.drizzle.team)
-[![](https://img.shields.io/badge/PRISMIC%20-%235163BA.svg?&style=flat&logo=prismic&logoColor=white)](https://prismic.io)
-[![](https://img.shields.io/badge/MONGODB%20-%2347A248.svg?&style=flat&logo=mongodb&logoColor=white)](https://mongodb.com)
-[![](https://img.shields.io/badge/POSTGRESQL%20-%234169E1.svg?&style=flat&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![](https://img.shields.io/badge/MYSQL%20-%234479A1.svg?&style=flat&logo=mysql&logoColor=white)](https://mysql.com)
-[![](https://img.shields.io/badge/SQLITE%20-%23003B57.svg?&style=flat&logo=sqlite&logoColor=white)](https://sqlite.org)
-[![](https://img.shields.io/badge/MONOREPO%20-%23764ABC.svg?&style=flat&logo=turborepo&logoColor=white)](https://turbo.build)
-[![](https://img.shields.io/badge/GIT%20-%23F05032.svg?&style=flat&logo=git&logoColor=white)](https://git-scm.com)
-[![](https://img.shields.io/badge/GITHUB%20-%23181717.svg?&style=flat&logo=github&logoColor=white)](https://github.com)
-[![](https://img.shields.io/badge/CLOUDFLARE%20-%23F38020.svg?&style=flat&logo=cloudflare&logoColor=white)](https://cloudflare.com)
-[![](https://img.shields.io/badge/GCP%20-%234285F4.svg?&style=flat&logo=googlecloud&logoColor=white)](https://cloud.google.com)
-[![](https://img.shields.io/badge/CLAUDE_CODE%20-%23D97757.svg?&style=flat&logo=anthropic&logoColor=white)](https://claude.ai)
+[![](https://img.shields.io/badge/TYPESCRIPT-%233178C6.svg?&style=flat&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![](https://img.shields.io/badge/REACT-%2356BDDA.svg?&style=flat&logo=react&logoColor=white)](https://react.dev)
+[![](https://img.shields.io/badge/REACT_ROUTER-%23CA4245.svg?&style=flat&logo=reactrouter&logoColor=white)](https://reactrouter.com)
+[![](https://img.shields.io/badge/EXPO-%238f4fff.svg?&style=flat&logo=expo&logoColor=white)](https://expo.dev)
+[![](https://img.shields.io/badge/HONO-%23E36002.svg?&style=flat&logo=hono&logoColor=white)](https://hono.dev)
+[![](https://img.shields.io/badge/CLOUDFLARE-%23F38020.svg?&style=flat&logo=cloudflare&logoColor=white)](https://workers.cloudflare.com)
+[![](https://img.shields.io/badge/SWIFT-%23F05138.svg?&style=flat&logo=swift&logoColor=white)](https://swift.org)
+[![](https://img.shields.io/badge/CLAUDE_CODE-%23D97757.svg?&style=flat&logo=anthropic&logoColor=white)](https://claude.com/claude-code)
 
-**Hi,**
-I'm  **R Bintang Bagus Putra Angkasa.** I make web apps work fast, scale well, and (hopefully) not wake people up at 3AM.
+Lately my keyboard is mostly for prompts and code review. The agents do the typing; I do the worrying! Not a born vibecoder, though. Coded everything by hand from year 5 B.C. _(before claude)_.
 
-Engineering Lead with 5+ years shipping POS and commerce platforms across Europe and Southeast Asia, currently behind the systems powering millions of orders across hundreds of store locations. Mostly living in the JavaScript ecosystem. Designing systems, optimizing performance, and building tools that make engineers happier.
+**Building now**
+- [Upsell](https://upsell.is): The dashboard, websites, apps, widget and plenty more cool stuff that help people get the food and things they love.
+- [Runway](https://github.com/stackoverprof/runway): A cockpit for running a fleet of coding agents that helps you unleash 100x productivity. Written in Swift.
+- Some handy npm libraries: [use-shared-state](https://github.com/stackoverprof/use-shared-state), [say-dictionary](https://github.com/stackoverprof/say-dictionary) and [content-expose](https://github.com/stackoverprof/content-expose).
 
-CS @ Universitas Gadjah Mada.
+CS @ Universitas Gadjah Mada · [LinkedIn](https://linkedin.com/in/r-bintangbagus) · [Email](mailto:r.bintangbagus@gmail.com)
 
 <br>
 
 [![](https://komarev.com/ghpvc/?username=stackoverprof&color=lightgrey)]()
-[![](https://img.shields.io/github/followers/stackoverprof?label=follow%20me&style=social)](https://github.com/stackoverprof)
