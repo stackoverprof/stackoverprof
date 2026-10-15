@@ -9,12 +9,13 @@ Co-founding software engineer at **Upsell**, the all-in-one operations and sales
 
 [![](https://img.shields.io/badge/TYPESCRIPT-%233178C6.svg?&style=flat&logo=typescript&logoColor=white)](https://typescriptlang.org)
 [![](https://img.shields.io/badge/REACT-%2356BDDA.svg?&style=flat&logo=react&logoColor=white)](https://react.dev)
-[![](https://img.shields.io/badge/REACT_ROUTER-%23CA4245.svg?&style=flat&logo=reactrouter&logoColor=white)](https://reactrouter.com)
-[![](https://img.shields.io/badge/EXPO-%238f4fff.svg?&style=flat&logo=expo&logoColor=white)](https://expo.dev)
-[![](https://img.shields.io/badge/HONO-%23E36002.svg?&style=flat&logo=hono&logoColor=white)](https://hono.dev)
-[![](https://img.shields.io/badge/CLOUDFLARE-%23F38020.svg?&style=flat&logo=cloudflare&logoColor=white)](https://workers.cloudflare.com)
+[![](https://img.shields.io/badge/REACT_NATIVE-%23444444.svg?&style=flat&logo=react&logoColor=9fdcea)](https://reactnative.dev)
 [![](https://img.shields.io/badge/SWIFT-%23F05138.svg?&style=flat&logo=swift&logoColor=white)](https://swift.org)
-[![](https://img.shields.io/badge/CLAUDE_CODE-%23D97757.svg?&style=flat&logo=anthropic&logoColor=white)](https://claude.com/claude-code)
+[![](https://img.shields.io/badge/HONO-%23E36002.svg?&style=flat&logo=hono&logoColor=white)](https://hono.dev)
+[![](https://img.shields.io/badge/POSTGRESQL-%234169E1.svg?&style=flat&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![](https://img.shields.io/badge/CLOUDFLARE-%23F38020.svg?&style=flat&logo=cloudflare&logoColor=white)](https://workers.cloudflare.com)
+[![](https://img.shields.io/badge/VITEST-%236E9F18.svg?&style=flat&logo=vitest&logoColor=white)](https://vitest.dev)
+[![](https://img.shields.io/badge/CLAUDE_CODE-%23D97757.svg?&style=flat&logo=claude&logoColor=white)](https://claude.com/claude-code)
 
 Lately my keyboard is mostly for prompts and code review. The agents do the typing; I do the worrying! Not a born vibecoder, though. Coded everything by hand from year 5 B.C. _(before claude)_.
 
